@@ -2,7 +2,7 @@
 
 import random
 t=random.randint(0,9)
-print("welcome to NUMBER GUESS GAME")
+print("you are welcomed to NUMBER GUESS GAME")  #changed the statement
 print("enter your number in the range of 0-9")
 n=int(input())
 a=1
